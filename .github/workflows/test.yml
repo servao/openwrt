@@ -93,5 +93,5 @@ jobs:
       id: compile
       run: |
         cd openwrt
-       make package/feeds/packages/shadowsocks-libev/compile V=s
+        make package/feeds/packages/shadowsocks-libev/compile V=s
 
